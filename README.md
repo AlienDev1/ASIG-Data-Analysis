@@ -21,7 +21,5 @@ Phase 4 the implementation,this is  where we really get our hands dirty implemen
 
 Finally, Phase 5 Maintenance, this is where we focused heavy on User Access. Creating Groups to insure the integrity of the data. 
 
-![image](https://user-images.githubusercontent.com/52867248/126039382-1fec7e25-3b61-44dc-87da-cfead056fe8d.png)
-
 
 ![ASIG - Project Design](https://user-images.githubusercontent.com/52867248/126039321-ea0eb4c5-2ea2-4690-9212-1ae94feb5b92.png)
