@@ -1,5 +1,5 @@
-# ASIG-Data-Analysis
-# Aerospace Special Intrest Group <- National Society oF Black Engineers 
+# NSBE ASIG-Data-Analysis
+# National Society of Black Engineers Aerospace Special Intrest Group 
 
 This project is an application of Data-Driven business intelligence tools and techniques to study global launch business using various open sources of data.
 Our objective is to provide an analytical framework that is part of the Data Science life cycle, that will prove to be an advantage to the EAC Spaceport Feasibility Study research team.
